@@ -3,7 +3,7 @@ import { BoldBI } from '@boldbi/boldbi-embedded-sdk';
 
 const ServerUrl = process.env.SERVER_URL;
 const DashboardId = process.env.DASHBOARD_ID;
-const authorizationUrl = '/api';
+const authorizationUrl = '/api/dashboard';
 
 class Dashboard extends React.Component<{}> {
   BoldBiObj: BoldBI;
