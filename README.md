@@ -16,9 +16,7 @@ This project was created using React with Next.js. This application aims to demo
   
   * Google Chrome, Microsoft Edge, Mozilla Firefox, and Safari.
 
- ## Configuration
-
-  * Please [get](https://github.com/boldbi/react-with-nextjs-sample/tree/master/react-nextjs-sample) the React with Next.js sample from GitHub. 
+ ## Configuration 
 
   * To set the following properties in the `.env` file, follow these instructions:
     
